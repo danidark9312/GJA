@@ -1,0 +1,198 @@
+software.title=GJA
+software.welcome=Bienvenido!
+software.welcome.message=Este aplicativo le permitira medir el potencial humano en el desarrollo de las tareas de su capital humano
+software.footer=MÓDULO WEB 2015 - Grupo Jurídico de Antioquia - Todos los derechos reservados.
+
+button.label.login=Ingresar
+button.label.nuevoCaso=Nuevo caso
+##Menu
+label.menu.title.inicio=Inicio
+label.menu.title.casos=Casos
+
+# Index
+label.campo.indexUltimosCasoPublicados=Últimos casos publicados
+
+#Menu nuevo caso
+label.campo.nuevoCaso=Nuevo Caso
+label.campo.estadoCaso=Estado del Caso
+label.campo.tipoCaso=Tipo del caso
+label.campo.nombreCaso=Nombre del caso
+label.campo.nombreVictima=Nombre de la victima
+label.campo.agregarVictima=Agregar victima
+label.campo.fechaDeLosHechos=Fecha de los hechos
+label.campo.fechaDeCaducidad=Fecha de caducidad
+label.campo.paisDeLosHechos=País de los hechos
+label.campo.departamentoDeLosHechos=Departamento de los hechos
+label.campo.municipioDeLosHechos=Municipio de los hechos
+label.campo.direccionDeLosHechos=Dirección de los hechos
+label.campo.resumenDeLosHechos=Resumen de los hechos
+label.campo.comentarios=Comentarios/Observaciones
+
+#Menu nuevo caso-demandados 
+label.campo.nombreJuridico=Nombre
+label.campo.agregarDemandado=Agregar
+label.campo.tipoDePersona=Tipo de Persona
+label.campo.paisDemandado=País
+label.campo.departamentoDemandado=Departamento.
+label.campo.municipioDemandado=Municipio.
+label.campo.direccionDemandado=Dirección
+label.campo.correoDemandado=Correo
+label.campo.observacionesMiembro=Notas/observaciones
+
+label.Actividad.particular.nombre=Actividad
+
+#Menu nuevo caso-demandantes/victimas
+label.campo.tipoDeMiembro=Tipo de Miembro 
+label.campo.esContacto=Marcar como Contacto
+label.campo.nombresMiembro=Nombres
+label.campo.apellidosMiembro=Apellidos
+label.campo.identificacionDeMiembro=Número de Identificación
+label.campo.direccionDeMiembro=Dirección
+label.campo.parentescoDeMiembro=Parentesco
+label.campo.telefonoMiembro=Telefono
+label.campo.celularMiembro=Celular
+label.campo.correoMiembro=Email
+label.campo.agregarTelefonoMiembro=Agregar
+label.campo.agregarCelularMiembro=Agregar
+label.campo.agregarCorreoMiembro=Agregar
+label.campo.agregarVictimaDemandante=Agregar
+
+#Menu nuevo caso-Abogados
+label.campo.abogadosDelCaso=Añadir Abogados al Caso
+
+#Menu nuevo caso lugar y despacho
+label.campo.paisHecho=País
+label.campo.departamentoHecho=Departamento
+label.campo.municipioHecho=Municipio
+label.campo.numeroDespacho=Número/Entidad
+label.campo.nombreFuncionario=Nombre Funcionario
+
+
+#Menu nuevo caso Bienes afectados
+label.campo.claseBien=Clase de Bien
+label.campo.tituloBien=Título
+label.campo.descripcionBien=Descripción
+label.campo.agregarBien=Agregar
+
+#Menu nuevo caso Radicado
+label.campo.numeroRadicado=Número Radicado
+label.campo.instanciaRadicado=Instancia
+label.campo.radicadoAcomulado=Acumulado
+label.campo.esAcumulado=Acumulado
+label.campo.acomuladoCon=Acumulado Con
+label.campo.acomuladoObservaciones=Observaciones
+label.campo.numeroDeRadicadoPadre=Número de Radicado con el que se acumula
+
+#Menu Nuevo Caso Prestamos
+#label.campo.AgregarPrestamo=Agregar Préstamo
+label.campo.nombreDeudor=Nombre Deudor
+label.campo.identificacionDeudor=Identificación
+label.campo.descripcionPrestamo=Descripción del Préstamo
+label.campo.fechaPrestamo=Fecha del Préstamo
+label.campo.valorPrestamo=Valor del Préstamo
+label.campo.porcentajeInteresPrestamo=% de Interés
+label.campo.intereses=Intereses
+label.campo.saldoPrestamo=Saldo Prestamo
+label.campo.entidadFinanciera=Entidad Financiera
+label.campo.numeroDeCuenta=Número De Cuenta
+label.campo.tipoDeCuenta=Tipo De Cuenta
+label.campo.tituloValor=Título Valor
+label.campo.archivoPrestamo=Archivo
+
+#Modal Confirmacion
+label.title.confirmacion=Esta seguro que desea eliminar la actividad
+
+#Modales Confirmación Eliminación
+label.title.confirmacion.Actividad=Esta seguro que desea eliminar la actividad
+label.title.confirmacion.Tarea=Esta seguro que desea eliminar la tarea
+label.button.confirmacionTarea.cancelar=Cancelar
+
+
+#label Detalle Caso
+label.detalleCaso.inicio=Inicio
+label.detalleCaso.casos=Casos
+label.detalleCaso.visorCaso=Visor Caso
+label.detalleCaso.tituloPestanaCasoDetalle=Detalle del caso
+label.detalleCaso.nombreCaso=Nombre Caso:
+label.detalleCaso.tipoCaso=Caso Tipo:
+label.detalleCaso.inicioHechos=Inicio de los hechos:
+label.detalleCaso.despacho=Número/Entidad:
+label.detalleCaso.fechaCaducidad=Fecha Caducidad:
+label.detalleCaso.funcionario=Nombre Funcionario:
+label.detalleCaso.resumenHecho=Resumen de los hechos:
+label.detalleCaso.lugarHechos=Lugar Hechos
+label.detalleCaso.pais=País:
+label.detalleCaso.departamento=Departamento:
+label.detalleCaso.municipio=Municipio:
+label.detalleCaso.dirreccion=Dirección:
+label.detalleCaso.lugarProceso= Lugar Proceso
+label.detalleCaso.estadoProceso=Estado:
+label.detalleCaso.descripcion=Descripción:
+label.detalleCaso.bienesTitulo=Bienes Afectados
+label.detalleCaso.tituloRadicado=Radicado
+label.detalleCaso.numeroRadicado=Número Radicado:
+label.detalleCaso.instancia=Instancia:
+label.detalleCaso.telefono=Teléfono:
+label.detalleCaso.direccion=Dirección:
+label.detalleCaso.correo=Correo:
+label.maestroActividad.titulo=Actividades
+label.maestroActividad.actividad=Actividad
+label.maestroActividad.nombre=Nombre
+label.maestroActividad.tarea=Tarea
+label.maestroActividad.detalleTarea=Detalle
+label.maestroActividad.adicionarTarea=Adicionar Tarea
+label.maestroActividad.mensajeEliminarActividad=Esta seguro que desea eliminar la Actividad?
+label.maestroActividad.mensajeEliminarTarea=Esta seguro que desea eliminar la Tarea
+label.maestroActividad.tituloActividad=Actividad
+label.maestroActividad.mensajeEliminarTareaNoEliminar=No se puede eliminar la Tarea porque esta siendo usada en un Caso
+label.maestroActividad.mensajeEliminarActividadNoEliminar=No se puede eliminar la Actividad porque esta siendo usada en un Caso
+label.maestroActividad.mensajeEliminarTareaNoModificar=No se puede modificar la tarea porque esta siendo usada en un Caso
+label.maestroActividad.mensajeEliminarActividadNoModificar=No se puede modificar la Actividad porque esta siendo usada en un Caso
+label.maestroActividad.salir= Salir
+label.maestroActividad.guardar= Guardar
+label.maestroActividad.cancelar=Cancelar
+label.maestroActividad.eliminar=Eliminar
+label.maestroActividad.nombreCompleto=Nombre Actividad
+label.maestroActividad.asociar=Asociar Actividad
+label.maestroActividad.botonNuevo=Nueva actividad
+
+label.maestroTipoCaso.estado=Estado
+label.maestroTipoCaso.titulo=Tipo Caso
+label.maestroSi=S
+label.maestroTipoCaso.nombre=Nombre
+label.maestroTipoCaso.adicionarActividad=Agregar Actividad
+label.maestroTipoCaso.asociarTipoCaso=Tipo Caso
+label.maestroTipoCaso.existeTipoCaso=El tipo de caso ingresado ya existe.
+label.maestroTipoCaso.noHayTipoCaso=No se encontraron tipos de casos para los parámetros de búsqueda ingresados.
+label.maestroTipoCaso.noInactivarTipoCaso=No se puede Inactivar el Tipo de caso debido a que tiene casos Asociados.
+label.maestroTipoCaso.noEliminarTipoCaso=No se puede Eliminar  el Tipo de caso debido a que tiene casos Asociados.
+label.maestroTipoCaso.activoTipoCaso=Activo
+label.maestroTipoCaso.inactivoTipoCaso=Inactivo
+label.maestroTipoCaso.mensajeEliminarTipoCaso=Esta seguro que desea eliminar el tipo de caso?
+label.maestroTipoCaso.mensajeEliminarActividad=Esta seguro que desea eliminar la actividad
+label.maestroTipoCaso.actividad=Actividad
+label.maestroTipoCaso.salir= Salir
+label.maestroTipoCaso.guardar= Guardar
+label.maestroTipoCaso.cancelar=Cancelar
+label.maestroTipoCaso.eliminar=Eliminar
+label.maestroTipoCaso.botonNuevo=Nuevo tipo caso
+label.mensaje.login=COMPROMETIDOS CON LA MEJOR ASISTENCIA LEGAL PARA LA EXCELENCIA PROFESIONAL
+
+#label titulos nuevo caso
+label.titulo.victimas=Victimas/Demandantes
+label.titulo.abogados=Abogados
+label.titulo.demandados=Demandados
+label.titulo.actividades=Actividades
+label.titulo.lugarDespacho=Lugar y Despacho del Proceso
+label.titulo.bienesAfectados=Bienes Afectados
+label.titulo.radicados=Radicados
+label.titulo.prestamos=Prestamo
+label.titulo.comentario=Comentarios
+label.titulo.procesoDespacho=Despacho del Proceso
+
+
+label.title.finalizacion.Sesion=La sesion finalizará en cinco minutos
+label.boton.finalizacion.Sesion=Aceptar
+
+
+label.mensaje.loguin=\u200B\u200BCOMPROMETIDOS CON LA MEJOR ASISTENCIA <br> LEGAL PARA LA EXCELENCIA PROFESIONAL
